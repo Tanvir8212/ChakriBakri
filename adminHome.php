@@ -3,8 +3,6 @@
 session_start();
 if($_SESSION["loggedInType"]=="Admin"){
 
-error_reporting(0);
-
 ?>
 
 <!DOCTYPE html>
